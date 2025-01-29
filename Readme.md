@@ -1,3 +1,6 @@
+# Для просмотра готового сайта
+https://arcanumsbc.github.io/2151871-kekstagram-28/
+
 # Личный проект «Кекстаграм»
 
 * Студент: [Игорь Коросткин](https://up.htmlacademy.ru/javascript/28/user/2151871).
