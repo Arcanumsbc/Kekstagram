@@ -1,5 +1,5 @@
 # Для просмотра готового сайта
-https://arcanumsbc.github.io/2151871-kekstagram-28/
+https://arcanumsbc.github.io/Kekstagram/
 
 # Личный проект «Кекстаграм»
 
